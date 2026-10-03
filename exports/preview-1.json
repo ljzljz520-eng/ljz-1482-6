@@ -1,0 +1,45 @@
+{
+  "animal_id": 1,
+  "preview": [
+    {
+      "field": "alias",
+      "purpose": "story",
+      "content": "咪咪"
+    },
+    {
+      "field": "species",
+      "purpose": "story",
+      "content": "猫"
+    },
+    {
+      "field": "story_public",
+      "purpose": "story",
+      "content": "在小区花园救助，联系电话〔已脱敏:手机号码〕"
+    },
+    {
+      "field": "status_public",
+      "purpose": "adoption_flyer",
+      "content": "【招领】咪咪（猫）等待领养"
+    },
+    {
+      "field": "title",
+      "purpose": "story",
+      "content": "雨夜救助"
+    },
+    {
+      "field": "body_public",
+      "purpose": "story",
+      "content": "在浦东张杨路500号附近发现"
+    },
+    {
+      "field": "public_alias",
+      "purpose": "story",
+      "content": "张姐"
+    },
+    {
+      "field": "role",
+      "purpose": "story",
+      "content": "救助人"
+    }
+  ]
+}

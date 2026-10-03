@@ -1,0 +1,72 @@
+{
+  "animal_id": 1,
+  "generated_at": "2026-10-03T15:16:08.446Z",
+  "fragments": [
+    {
+      "fragment_id": 1,
+      "source_type": "profile",
+      "source_id": 1,
+      "field": "alias",
+      "purpose": "story",
+      "content": "咪咪"
+    },
+    {
+      "fragment_id": 2,
+      "source_type": "profile",
+      "source_id": 1,
+      "field": "species",
+      "purpose": "story",
+      "content": "猫"
+    },
+    {
+      "fragment_id": 3,
+      "source_type": "profile",
+      "source_id": 1,
+      "field": "story_public",
+      "purpose": "story",
+      "content": "在小区花园救助，联系电话〔已脱敏:手机号码〕"
+    },
+    {
+      "fragment_id": 4,
+      "source_type": "profile",
+      "source_id": 1,
+      "field": "status_public",
+      "purpose": "adoption_flyer",
+      "content": "【招领】咪咪（猫）等待领养"
+    },
+    {
+      "fragment_id": 5,
+      "source_type": "timeline",
+      "source_id": 1,
+      "field": "title",
+      "purpose": "story",
+      "content": "雨夜救助"
+    },
+    {
+      "fragment_id": 6,
+      "source_type": "timeline",
+      "source_id": 1,
+      "field": "body_public",
+      "purpose": "story",
+      "content": "在浦东张杨路500号附近发现"
+    },
+    {
+      "fragment_id": 7,
+      "source_type": "character",
+      "source_id": 1,
+      "field": "public_alias",
+      "purpose": "story",
+      "content": "张姐"
+    },
+    {
+      "fragment_id": 8,
+      "source_type": "character",
+      "source_id": 1,
+      "field": "role",
+      "purpose": "story",
+      "content": "救助人"
+    }
+  ],
+  "media_manifest": [],
+  "manifest_scan_findings": []
+}
